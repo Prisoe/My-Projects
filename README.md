@@ -1,2 +1,2 @@
-# Python Spirograph
+# Python Projects
 Learning How to code
