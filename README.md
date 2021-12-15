@@ -1,2 +1,2 @@
-# My-Projects
+# Python Spirograph
 Learning How to code
